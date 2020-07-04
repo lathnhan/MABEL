@@ -1,6 +1,8 @@
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
 *Date last modified: 18 August 2017
 *Purpose: clean the qualification variables
-
 ********************************************************
 
 global ddtah="L:\Data\Data Clean\Wave9\dtah"
