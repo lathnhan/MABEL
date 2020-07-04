@@ -1,4 +1,9 @@
-*This program is used to split scanned files into individual images
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
+*Date last modified: 14 October 2017
+*Purpose: Split scanned files into individual images
+**********************************************************
 
 *use "L:\Data\Data Clean\Wave9\dtah\temp_all.dta",clear
 
