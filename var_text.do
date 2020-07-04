@@ -1,6 +1,8 @@
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
 *Date last modified: 23/8/17
 *Purpose: clean the variables related to text responses
-
 ********************************************************
 
 global ddtah="L:\Data\Data Clean\Wave9\dtah"
