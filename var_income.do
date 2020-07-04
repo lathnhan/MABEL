@@ -1,5 +1,8 @@
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
+*Date last modified: 14 October 2017
 *Purpose: clean the variables related to income
-
 ********************************************************
 
 global ddtah="L:\Data\Data Clean\Wave9\dtah"
