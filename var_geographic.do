@@ -1,6 +1,8 @@
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
 *Date last modified: 15 April 2017
 *Purpose: merge the geographic variables from Matthew to w6 data
-
 ********************************************************
 
 global ddtah="L:\Data\Data Clean\Wave9\dtah"
