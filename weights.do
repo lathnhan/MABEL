@@ -1,7 +1,10 @@
 
 
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
+*Date last modified: 14 October 2017
 *Purpose: calculate sample weights
-
 ********************************************************
 
 global ddtah="D:\Data\Data Clean\Wave9\dtah"
