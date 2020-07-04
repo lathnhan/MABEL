@@ -1,9 +1,8 @@
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
 *Date last modified: 1/12/2017
 *Purpose: Edit the variable labels 
-
-
-
-
 ********************************************************
 
 global ddtah="L:\Data\Data Clean\Wave9\dtah"
