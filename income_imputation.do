@@ -1,6 +1,8 @@
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
+*Date last modified: 14 October 2017
 *Purpose: Impute missing income data 
-*
-
 ********************************************************
 
 global ddtah="D:\Data\Data Clean\Wave9\dtah"
@@ -171,7 +173,7 @@ gen numk1317=(w7age_1>=13&w7age_1<18)+(w7age_2>=13&w7age_2<18)+(w7age_3>=13&w7ag
 	*we assume that couples will split it equally if the partner is not working.
 
 	
-* Here we can use the additional information on gross  annual non-practice doctorís income ìfisaddî from wave 6 onwards if it is not missing.
+* Here we can use the additional information on gross  annual non-practice doctor‚Äôs income ‚Äúfisadd‚Äù from wave 6 onwards if it is not missing.
 
 
 replace fclp=. if fclp<0
