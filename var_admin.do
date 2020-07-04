@@ -1,7 +1,11 @@
 
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
+*Date last modified: 14 October 2017
 *Purpose: clean the administrative variables in wave 9
-
 ********************************************************
+
 global ddtah="L:\Data\Data Clean\Wave9\dtah"
 global ddo="L:\Data\Data Clean\Wave9"
 global dlog="L:\Data\Data Clean\Wave9\log"
