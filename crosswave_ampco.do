@@ -1,4 +1,6 @@
 
+**********************************************************
+
 *Purpose: extract information from previous waves and AMPCo database for those answered "No Change" and status quo variables
 
 ********************************************************
