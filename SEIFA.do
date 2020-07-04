@@ -1,3 +1,6 @@
+********************************************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
 *Date last modified: 19/8/2017
 *Purpose: update SEIFA 2011 release and other additional variables to wave 6 data
 
