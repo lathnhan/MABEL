@@ -1,5 +1,8 @@
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
 *Date last modified: 13 April 2017
-*Purpose: drop the duplicated responses based on set up rules
+*Purpose: identify and drop the duplicated responses based on set up rules
 
 ********************************************************
 
