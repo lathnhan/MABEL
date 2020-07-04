@@ -1,8 +1,9 @@
+**********************************************************
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
+*Authors: Nhan La, Tammy Taylor
 *Date last modified: 16/6/2017
 *Purpose: attach distance moved since last responded to MABEL
 *Matthew produces the data for this each wave based on latitude and longitude of the mid point of suburbs
-*
-
 ********************************************************
 
 global ddtah="L:\Data\Data Clean\Wave9\dtah"
