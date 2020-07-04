@@ -1,6 +1,7 @@
 ********************************************************
-*Program name: master.do
+*WAVE 9 MABEL DATA CLEANING AND MANAGEMENT
 *Authors: Nhan La, Tammy Taylor
+*Date last modified: 14 October 2017
 *Purpose: Master do file cleaning  data
 *Input: Wave 9 data including online, hardcopy and extra entered
 
